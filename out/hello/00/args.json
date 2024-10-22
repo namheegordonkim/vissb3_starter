@@ -1,0 +1,1 @@
+{"run_name": "hello", "seed": 0, "n_iters": 100, "episode_length": 256, "log_std_init": -2.0}
