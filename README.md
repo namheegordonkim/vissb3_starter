@@ -5,7 +5,7 @@
 ### Create a conda environment
 
 ```
-conda create -y -n vissb3 python=3.11
+conda create -y -n vissb3 python=3.10
 conda activate vissb3
 ```
 
